@@ -28,7 +28,7 @@ function App() {
           getJoke();
         }}
       >
-        Click Me because that's what she said
+        Click Me
       </button>
     </div>
   );
